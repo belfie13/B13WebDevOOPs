@@ -1,0 +1,10 @@
+.effect-content_box_dark {
+  padding: 10px;
+  box-shadow: inset 0 4px 4px 0 #ccc, inset 2px 2px 4px 0 #ccc, inset -2px 2px 4px 0 #ccc;
+  background-color: #000;
+}
+.effect-content_box_light {
+  padding: 10px;
+  box-shadow: inset 0 4px 4px 0 #333, inset 2px 2px 4px 0 #333, inset -2px 2px 4px 0 #333;
+  background-color: #fff;
+}
