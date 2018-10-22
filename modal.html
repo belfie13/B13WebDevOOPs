@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang=en>
+  <head>
+    <title></title>
+    <style>
+      #modal {
+        display: none;
+      }
+      #modal:target {
+        display: initial;
+      }
+      .modal-background {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: #000000;
+      }
+      .modal-content {
+        position: fixed;
+        top: 25%;
+        right: 25%;
+        bottom: 25%;
+        left: 25%;
+      }
+    </style>
+  </head>
+  <body>
+    <a href=#modal>show modal</a>
+    
+    <div id=modal>
+      <a href=#><div class=modal-background></div></a>
+      <div class=modal-content>content</div>
+    </div>
+  </body>
+</html>
