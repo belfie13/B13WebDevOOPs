@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"highli",
+				"highlight_string〔function〕"
+			],
+			[
+				"url",
+				"urlencode〔function〕"
+			],
+			[
+				"high",
+				"highlight_string〔function〕"
+			],
+			[
+				"preg",
+				"preg_split〔function〕"
+			],
+			[
+				"strrep",
+				"str_replace〔function〕"
+			],
+			[
+				"generate",
+				"generateRSAKey〔function〕"
+			],
+			[
+				"accou",
+				"$account_key_path〔variable〕"
+			],
+			[
+				"openssl_pke",
+				"openssl_pkey_new〔function〕"
+			],
+			[
+				"respo",
+				"$response〔variable〕"
+			],
+			[
+				"arraykey",
+				"array_key_exists〔function〕"
+			],
+			[
+				"K_UAP",
+				"K_UAPI"
+			],
+			[
+				"K",
+				"K_FUNC_PARAMETERS"
+			],
+			[
+				"izV",
+				"izValidLabel〔function〕"
+			],
+			[
+				"const",
+				"constant〔function〕"
+			],
+			[
+				"E",
+				"E_ALL"
+			],
+			[
+				"define",
+				"define〔function〕"
+			],
+			[
+				"cPanel",
+				"CPanel〔namespace〕"
+			],
+			[
+				"Le",
+				"LetsEncrypt〔namespace〕"
+			],
+			[
+				"Decor",
+				"DecoratorInYourFace"
+			],
+			[
+				"declare",
+				"declare〔function〕"
+			],
+			[
+				"dns_get_record",
+				"dns_get_record(\".$opts['key"
+			],
+			[
+				"dns",
+				"dns_get_record($domain"
+			],
+			[
+				"fullchain",
+				"$fullchain〔variable〕"
+			],
+			[
+				"isset",
+				"isset〔function〕"
+			],
+			[
+				"dnsge",
+				"dns_get_record〔function〕"
+			],
+			[
+				"json",
+				"json_decode〔function〕"
+			],
+			[
+				"gener",
+				"generateCSR〔function〕"
+			],
+			[
+				"gen",
+				"generateRSAKey〔function〕"
+			],
+			[
+				"sha",
+				"sha512"
+			],
+			[
+				"DATE",
+				"DATE_W3C"
+			],
+			[
+				"curl",
+				"curl"
+			],
+			[
+				"curl_set",
+				"curl_setopt_array"
+			],
+			[
+				"arraym",
+				"array_merge"
+			],
+			[
+				"highl",
+				"highlight_string"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"isarra",
+				"is_array"
+			],
+			[
+				"asso",
+				"associative"
+			],
+			[
+				"associ",
+				"associateID"
+			],
+			[
+				"req",
+				"req1\tB13 require_once …"
+			],
+			[
+				"d",
+				"define"
+			],
+			[
+				"log",
+				"logPath"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fu",
+				"function_result"
+			],
+			[
+				"is",
+				"is_null"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/MarkdownPreview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/php-dev_server.sublime-build",
+					""
+				],
+				[
+					"Packages/User/php_lintFile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP_RunFile.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/MarkdownPreview/Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/PHP/php.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP_RunFile.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PHP_RunFile.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/php-dev_server.sublime-build",
+					""
+				],
+				[
+					"Packages/User/php_lintFile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP_RunFile.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/php_lintFile.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/php_lintFile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP_RunFile.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PHP_RunFile.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package",
+				"View Package File"
+			],
+			[
+				"pack dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packdisc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"padi",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"padis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 404.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/B13XTS1/src/B13WebDevOOPs"
+	],
+	"file_history":
+	[
+		"/Volumes/B13XTS1/src/php/B13/LetsEncrypt/uapi_stats_bar_get_stats_curl.json",
+		"/Volumes/B13XTS1/src/php/Psr/Log/LogLevel.php",
+		"/Volumes/B13XTS1/src/php/Psr/Log/AbstractLogger.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/uapi.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/cpapi2.php",
+		"/Volumes/B13XTS1/src/php/ACMECert/ACMECert/ACMECert.php",
+		"/Volumes/B13XTS1/src/php/ACMECert/ACMECert/ACMEv2.php",
+		"/Users/belfie13/Downloads/Untitled 1.ideament",
+		"/Users/belfie13/Downloads/Untitled 1.opml",
+		"/Volumes/B13XTS1/src/PHP/acmephp/src/Ssl/PrivateKey.php",
+		"/Volumes/B13XTS1/src/PHP/acmephp/src/Ssl/PublicKey.php",
+		"/Volumes/B13XTS1/src/PHP/B13/PCRE/PHPLanguageMacros.php",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/_src/PHP/_YouKnowWhatIWant/B13HTML.php",
+		"/Volumes/B13XTS1/src/PHP/B13/DesignPatterns/trait.php",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/_src/CIIDPHP/Model_Interface.php",
+		"/Volumes/B13XTS1/src/PHP/B13/DesignPatterns/CommandInterface.php",
+		"/Volumes/B13XTS1/src/PHP/B13/DesignPatterns/MagicMethods.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Autoload.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/AURCKCPanelHost.php",
+		"/Volumes/B13XTS1/src/PHP/B13/_Implementation.B13Markup]",
+		"/Volumes/B13XTS1/src/PHP/B13/PKI/PKI.php",
+		"/Volumes/B13XTS1/src/PHP/publicapi-php/Cpanel/Util/Autoload.php",
+		"/Volumes/B13XTS1/src/PHP/B13/cPanel/FunctionCallInterface.php",
+		"/Volumes/B13XTS1/src/PHP/Psr/Log/LoggerInterface.php",
+		"/Volumes/B13XTS1/src/PHP/publicapi-php/Cpanel/Service/Abstract.php",
+		"/Volumes/B13XTS1/src/PHP/B13/SublimeText3/SublimeText3.php",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/User/Default subl files/PHP/PHP.sublime-syntax",
+		"/Volumes/B13XTS1/src/PHP/B13/PHP/Language.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/CPanelHost.php",
+		"/Volumes/B13XTS1/src/PHP/B13/DesignPatterns/DecoratorInterface.php",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/DocPHPManualer/DocPHPManualer.sublime-settings",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/User/DocPHPManualer.sublime-settings",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/ACMECert.php",
+		"/Volumes/B13XTS1/src/PHP/B13/PHP/Network/dns_get_record.php",
+		"/Volumes/B13XTS1/src/PHP/B13/B13LoggerTrait.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/__test.json",
+		"/Volumes/B13XTS1/src/PHP/B13/php_log_file.log",
+		"/Volumes/B13XTS1/docs/[B13]---JSON---JavaScript_Object_Notation.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/B13/Examples/http_build_query_form.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Examples/htp_header_examples.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Functions/errorHandler.php",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Volumes/B13XTS1/src/PHP/B13/Examples/inclued_get_data.php",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/PHP/time.php",
+		"/Volumes/B13XTS1/src/PHP/B13/HTML/TimeElement.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Logger.php",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/PHP/console.php",
+		"/Volumes/B13XTS1/src/PHP/B13/ini_runtime_config_dev.php",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Volumes/B13XTS1/B13MAD.net/sftp-config.json",
+		"/Volumes/B13XTS1/src/SublimeText3/Default_App_Packages/PHP/Indentation Rules - heredoc end.tmPreferences",
+		"/Volumes/B13XTS1/src/SublimeText3/Default_App_Packages/PHP/Indentation Rules Annex.tmPreferences",
+		"/Volumes/B13XTS1/src/PHP/B13/php.ini",
+		"/Volumes/B13XTS1/src/PHP/B13/B13.php",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/php_log_file.log",
+		"/Volumes/B13XTS1/src/SublimeText3/Default_App_Packages/PHP/Indentation Rules.tmPreferences",
+		"/Volumes/B13XTS1/public_html/index.php",
+		"/Volumes/B13XTS1/src/SublimeText3/Default_App_Packages/PHP/PHP.sublime-completions",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/[B13]-subl_sftp.json",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/sftp-config.json",
+		"/Volumes/B13XTS1/B13XTS1.sublime-project",
+		"/Volumes/B13XTS1/src/PHP/B13/cPanel/SublimeTextSnippetGenerator.php",
+		"/Volumes/B13XTS1/src/PHP/lescript/Lescript.php",
+		"/Volumes/B13XTS1/src/PHP/lescript/_example.php",
+		"/Volumes/B13XTS1/src/PHP/acmephp/src/Ssl/Key.php",
+		"/Volumes/B13XTS1/src/PHP/acmephp/src/Ssl/DistinguishedName.php",
+		"/Volumes/B13XTS1/src/PHP/acmephp/src/Cli/Repository/Repository.php",
+		"/Volumes/B13XTS1/src/PHP/B13/WebPKI/AsymmetricKeys.php",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/ACMECert.log",
+		"/Volumes/B13XTS1/src/PHP/B13/cPanel/SecureRemoteLogins.php",
+		"/Volumes/B13XTS1/public_html/Restricted/.htaccess",
+		"/Volumes/B13XTS1/public_html/Restricted/.htpasswd",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/cpapi2_zone_edit_add_zone_record.php",
+		"/private/etc/ssl/openssl.cnf",
+		"/Volumes/B13XTS1/src/PHP/B13/ACME/Status.php",
+		"/Volumes/B13XTS1/docs/[B13]---PHP---snippets.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/B13/DatabaseSuite/FieldInterface.php",
+		"/Volumes/B13XTS1/src/PHP/B13/DatabaseSuite/DatabaseInterface.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Taxman/Taxman.php",
+		"/Volumes/B13XTS1/src/PHP/php-CpanelDdns/lib/HttpRequest.php",
+		"/Volumes/B13XTS1/src/PHP/B13/BaseAbstract/IdentityInterface.php",
+		"/Volumes/B13XTS1/src/PHP/B13/BaseAbstract/UniqueIdentityInterface.php",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/htdocs/lib/plugins/smtp/subtree/php-fig/log/Psr/Log/LoggerTrait.php",
+		"/Volumes/B13XTS1/src/PHP/B13/ACME/URI.php",
+		"/Volumes/B13XTS1/certificates/belfie13@hotmail.com_LE.key",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/uapi_ssl_upload_key.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/uapi_ssl_generate_csr.php",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/ACMEv2.php",
+		"/Volumes/B13XTS1/src/PHP/B13/ACME/Directory.php",
+		"/Volumes/B13XTS1/src/PHP/B13/ACME/ACMEClient.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/cpapi2_zone_edit_fetchzones.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/cpapi2_zone_edit_remove_zone_record.php",
+		"/Volumes/B13XTS1/src/PHP/B13/ACME/ACMEClientInterface.php",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/README.html",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/web_hosts_manager_to_cpanel_api.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/uapi_stats_bar_get_stats.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/CPanelUAPI.php",
+		"/Volumes/B13XTS1/src/PHP/B13/LetsEncrypt/uapi_ssl_generate_key.php",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/ACME_Exception.php",
+		"/Volumes/B13XTS1/B13MAD.net/src/PHP/acmephp/src/Ssl/Generator/RsaKey/RsaKeyGenerator.php",
+		"/Volumes/B13XTS1/src/PHP/B13/B13WebPKI/KeyStorage.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Tests/comparison_operators_test.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Functions/exceptionHandler.php",
+		"/Volumes/B13XTS1/docs/[B13]---LetsEncrypt.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/LEClient/src/LEAccount.php",
+		"/Volumes/B13XTS1/docs/[B13]---CodingStandard---PHP.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/Psr/Log/AbstractLogger.php",
+		"/Volumes/B13XTS1/src/PHP/Psr/Log/LoggerTrait.php",
+		"/Volumes/B13XTS1/src/PHP/B13/CLI/PHPDevServer.php",
+		"/Volumes/B13XTS1/src/PHP/php_error_log.html",
+		"/Volumes/B13XTS1/docs/[B13]---PHP---PSR-7--http-messages.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/Psr/Autoload.php",
+		"/Volumes/B13XTS1/src/PHP/LEClient/src/LEClient.php",
+		"/Users/belfie13/Library/Application Support/Sublime Text 3/Packages/User/PHP/PHP.sublime-syntax",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/_src/PHP/_YouKnowWhatIWant/DataDisplay.php",
+		"/Volumes/B13XTS1/B13XTS1.sublime-workspace",
+		"/Volumes/B13XTS1/docs/[B13]---PSR---12_Extended_Coding_Standard.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/LEClient/src/LEConnector.php",
+		"/Volumes/B13XTS1/B13MAD.net/src/PHP/acmephp/src/Cli/Action/PushRancherAction.php",
+		"/Volumes/B13XTS1/src/PHP/php-CpanelDdns/CpanelDdns.php",
+		"/Volumes/B13XTS1/src/PHP/B13/B13WebPKI/ACME/Object.php",
+		"/Volumes/B13XTS1/ConsolidateOrRemove/[B13]-terver/htdocs/inc/FeedParser.php",
+		"/Volumes/B13XTS1/src/PHP/B13/Examples/safari-user_agent_stylesheet.css",
+		"/Volumes/B13XTS1/docs/[B13]---HTTP---Status_Messages.html",
+		"/Volumes/B13XTS1/src/PHP/ACMECert/ACMECert/ciid_null_test.php",
+		"/Volumes/B13XTS1/docs/[B13]---OpenSSL.B13Markup",
+		"/Volumes/B13XTS1/src/PHP/B13/JSON/json_export.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.docphp":
+	{
+		"height": 546.0
+	},
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 185.0
+	},
+	"output.sftp":
+	{
+		"height": 531.0
+	},
+	"pinned_build_system": "",
+	"project": "B13WebDevOOPs.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1071.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

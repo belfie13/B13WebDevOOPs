@@ -1,61 +1,73 @@
-html {
+html
+ {
   display: block;
-}
-head {
+ }
+head
+ {
   display: none;
-}
-body {
+ }
+body
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-header {
+ }
+header
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-main {
+ }
+main
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-footer {
+ }
+footer
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-div {
+ }
+div
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-section {
+ }
+section
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-article {
+ }
+article
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
-aside {
+ }
+aside
+ {
   display: block;
   margin: 0;
   padding: 0;
-}
+ }
 
-body>header {
+body>header
+ {
   display: block;
   position: fixed;
   top: 0;
   right: 0;
   left: 0;
-}
-body>footer {
+ }
+body>footer
+ {
   display: block;
   position: fixed;
   right: 0;
   bottom: 0;
   left: 0;
-}
+ }

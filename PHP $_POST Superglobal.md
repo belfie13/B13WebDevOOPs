@@ -1,1 +1,0 @@
-#PHP `$_POST` Superglobal
