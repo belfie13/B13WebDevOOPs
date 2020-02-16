@@ -11,16 +11,16 @@
 
 `┌──────────┬─────────────────────┬──────────────────────────┐`
 
-`│ Service  │      Subdomain      │       Redirection        │`
+`│ Service- │ -----Subdomain----- │ ------Redirection------- │`
 
 `├──────────┼─────────────────────┼──────────────────────────┤`
 
-`│ cPanel   │  cpanel.example.com │ https://example.com:2083 │`
+`│ cPanel-- │ -cpanel.example.com │ https://example.com:2083 │`
 
-`│ WHM      │     whm.example.com │ https://example.com:2087 │`
+`│ WHM----- │ ----whm.example.com │ https://example.com:2087 │`
 
 `│ Web Disk │ webdisk.example.com │ https://example.com:2078 │`
 
-`│ Webmail  │ webmail.example.com │ https://example.com:2096 │`
+`│ Webmail- │ webmail.example.com │ https://example.com:2096 │`
 
 `└──────────┴─────────────────────┴──────────────────────────┘`
